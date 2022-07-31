@@ -58,7 +58,7 @@ h1 {
 /* 3rd progress bar */
 .mask .fill {
     clip: rect(0px, 75px, 150px, 0px);
-    background-color: #dd7732;
+    background-color: #ffc107;
 }
 
 .mask.full,
@@ -77,6 +77,25 @@ h1 {
     }
 }
 
-* {
-    border: 2px solid white;
+.profile-photo {
+    border-radius: 20px;
 }
+
+h2 {
+    text-align: center;
+}
+
+.progress {
+    min-width: 0%;
+    max-width: 50%;
+    margin: 10px;
+    text-align: center;
+    /* background-color: #ffc107; */
+    height: 30px;
+    font-size: 1.3rem;
+    margin-left: 0px
+}
+
+
+
+ /* main color = #ffc107 */

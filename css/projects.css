@@ -1,7 +1,7 @@
 
 
 .project-container img {
-    width: 25vw;
+    width: 30vw;
     height: 40vh;
     margin: 10px
 }
@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color: #dd7732;
+    color: #ffc107;
 }
 
 .p-name {

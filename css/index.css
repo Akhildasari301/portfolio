@@ -30,7 +30,7 @@
 }
 .row p span.typed-text {
   font-weight: normal;
-  color: #dd7732;
+  color: #ffc107;
 }
 .row p span.cursor {
   display: inline-block;
@@ -71,9 +71,9 @@
 #know-more {
     padding: 5px;
     font-size: 1.2rem;
-    background-color: #dd7732;
+    background-color: #ffc107;
     color: white;
-    border: 1px solid #dd7732;
+    border: 1px solid #ffc107;
     border-radius: 15px;
 }
 

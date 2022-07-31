@@ -1,12 +1,15 @@
 
+
+
 .contact-left {
     border: 2px solid white;
     margin: 10px
 }
 .card{
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
     border: none;
     padding: 20px;
+    background-color: #000000;
 }
 button{
     border: none;
@@ -19,4 +22,50 @@ button{
   }
 .card-body{
     color: black;
+}
+.submitButton {
+    background-color: #ffc107;
+    color: white;
+    border-radius: 10px;
+    padding: 5px
+}
+
+.card-body div {
+    text-align: left;
+}
+
+/* .card, .card-body input, textarea {
+    background-color: #998f8f;
+} */
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+
+h1 {
+    text-align: center;
+}
+
+.info-item {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid gray;
+    color: white;
+    font-size: 1.3rem;
+    max-width: 50%;
+    border-radius: 10px;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.info-item a {
+    text-decoration: none;
+    color: white
+}
+
+.info-item a:hover {
+    color: #ffc107
 }
