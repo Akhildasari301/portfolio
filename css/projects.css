@@ -1,0 +1,24 @@
+
+
+.project-container img {
+    width: 25vw;
+    height: 40vh;
+    margin: 10px
+}
+/* * {
+    border: 2px solid red;
+} */
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+a:hover {
+    color: #dd7732;
+}
+
+.p-name {
+    text-align: center;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,36 @@
+/* * {
+    border: 2px solid red;
+} */
+
+img {
+    width: 400px;
+    height: 300px;
+}
+html, body {
+    height: 100%;
+}
+
+/* HomePage */
+/* ======================= */
+
+
+
+/* .nav a {
+    color: white !important;
+} */
+
+/* global styles */
+
+body {
+    background-color: rgb(24, 22, 22);
+    color: white !important
+}
+
+.nav-link {
+    color: white;
+    font-size: 1.2rem
+}
+ 
+.nav-link:hover {
+    color: #dd7732
+}
