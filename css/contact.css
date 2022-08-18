@@ -69,3 +69,7 @@ h1 {
 .info-item a:hover {
     color: #ffc107
 }
+
+.newsletter {
+    color: white;
+}
